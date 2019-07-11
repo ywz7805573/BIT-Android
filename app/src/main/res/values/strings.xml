@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Helloworld</string>
+    <string name="button1">Change</string>
+    <string name="tv1">HelloWorld!</string>
+    <string name="button2">clickplease!</string>
+    <string name="imageView3">pic</string>
+    <string name="checkBox1">Male</string>
+    <string name="checkBox2">Female</string>
+    <string name="tv2">请勾选你的性别</string>
+</resources>
